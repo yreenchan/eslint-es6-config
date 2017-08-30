@@ -1,0 +1,25 @@
+{
+  "name": "eslint-es6-config",
+  "version": "1.0.0",
+  "description": "ESLint config for ES6",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint example/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yreenchan/eslint-es6-config.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yreenchan/eslint-es6-config/issues"
+  },
+  "homepage": "https://github.com/yreenchan/eslint-es6-config#readme",
+  "dependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^4.5.0",
+    "eslint-plugin-async-await": "^0.0.0"
+  }
+}
